@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Embedded C and C++
 - 💞️ I’m looking to collaborate on Nothing Currently
 - 📫 How to reach me email me at dylkaber@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can read sheet music
 
 <!---
 dkaber99/dkaber99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
