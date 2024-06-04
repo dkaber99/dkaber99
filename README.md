@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dkaber99
-- 👀 I’m interested in ...
+- 👀 I’m interested in practicing my coding skills
 - 🌱 I’m currently learning Embedded C and C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Nothing Currently
 - 📫 How to reach me email me at dylkaber@gmail.com
 - ⚡ Fun fact: ...
 
