@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dkaber99
-- 👀 I’m interested in practicing my coding skills
+- 👀 I’m interested in practicing my coding skills and uploading existing code to showcase my skills(minus code written at companies) 
 - 🌱 I’m currently learning and reviewing Embedded C and C++ respectively. Already have experience in Python, C#, SQL, ARM, and Verilog
 - 💞️ I’m looking to collaborate on Nothing Currently
 - 📫 How to reach me email me at dylkaber@gmail.com
