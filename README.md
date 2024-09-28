@@ -2,7 +2,7 @@
 - 👀 I’m very interested in continuing to expand on my coding skills (e.g. - C, C++, and Python)
 - 🌱 I’m currently learning and reviewing Embedded C and C++ respectively. Already have 1-2 years experience in Python, C#, SQL, ARM, and Verilog
 - 📫 How to reach me email me at dylkaber@gmail.com 
-- ⚡ Fun facts: I can read sheet music and read write Chinese at a basic level 
+- ⚡ Fun facts: I can read sheet music and read/write Chinese at a basic level 
 
 <!---
 dkaber99/dkaber99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
